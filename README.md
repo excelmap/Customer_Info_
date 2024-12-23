@@ -10,17 +10,25 @@ The objective of this project is to study customer purchasing behavior, to under
 
 Scope:
 The study will focus on the following aspects:
+
 a.	Customer demographics: age, gender, profession, and country.
+
 b.	Purchase trend analysis: items, categories, and amount of purchase.
+
 c.	The influence of shipping types and subscription statuses on customer behavior.
+
 d.	Seasonal buying habits and preferences.
 
 Key Areas of Focus:
 1.	Customer Segmentation: Group customers based on demographics and purchase behaviors.
-2.	Sales Trends Analysis: Identify popular categories, products, and high-value transactions.
-3.	Seasonal Insights: Understand how seasons influence purchasing patterns.
-4.	Shipping Preferences: Assess the impact of shipping methods on customer satisfaction.
-5.	Subscription Influence: Analyze how subscription status affects purchase frequency and value.
+   
+3.	Sales Trends Analysis: Identify popular categories, products, and high-value transactions.
+   
+5.	Seasonal Insights: Understand how seasons influence purchasing patterns.
+   
+7.	Shipping Preferences: Assess the impact of shipping methods on customer satisfaction.
+   
+9.	Subscription Influence: Analyze how subscription status affects purchase frequency and value.
    
 Useful Insights to Generate:
 1.	Most purchased categories and items.
