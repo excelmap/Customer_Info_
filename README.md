@@ -42,19 +42,22 @@ Summary of Data Analysis
 Gender
 Female    52.699567
 Male      52.109415
-2.	Category-wise analysis
+
+3.	Category-wise analysis
 Category
 Accessories    49.485149
 Clothing       52.700084
 Footwear       53.028391
 Outerwear      53.057778
-3.	Season-wise analysis
+
+5.	Season-wise analysis
 Season
 Fall      52.931507
 Spring    52.603383
 Summer    52.373206
 Winter    52.382228
-4.	Country-wise analysis
+
+7.	Country-wise analysis
 Country
 Afghanistan      52.843407
 Albania          52.826996
